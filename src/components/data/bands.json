@@ -1,0 +1,25 @@
+{
+  "bands": [
+    {
+      "name": "Johann-Sebastian Bach",
+      "imageFile": "Johann_Sebastian_Bach.jpg",
+      "synopsis": "Johann-Sebastian Bach (31 March 1685 – 28 July 1750) was a German composer and musician of the Baroque period. He is known for instrumental compositions such as the Art of Fugue, the Brandenburg Concertos, and the Goldberg Variations, and for vocal music such as the St Matthew Passion and the Mass in B minor. Since the 19th-century Bach Revival he has been generally regarded as one of the greatest composers of the Western art musical canon.",
+      "moreInfo": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+      "urlPart": "jsb"
+    },
+    {
+      "name": "Dave Brubeck",
+      "imageFile": "Dave_Brubeck_(1964).jpg",
+      "synopsis": "David Warren Brubeck (6 December 1920 – 5 December 2012) was an American jazz pianist and composer, considered one of the foremost exponents of cool jazz. Many of his compositions have become jazz standards including \"In Your Own Sweet Way\" and \"The Duke\". Brubeck's style ranged from refined to bombastic, reflecting both his mother's classical training and his own improvisational skills. His music is known for employing unusual time signatures as well as superimposing contrasting rhythms, meters, and tonalities.",
+      "moreInfo": "https://en.wikipedia.org/wiki/Dave_Brubeck",
+      "urlPart": "brubeck"
+    },
+    {
+      "name": "Wolfgang Amadeus Mozart",
+      "imageFile": "Croce-Mozart-Detail.jpg",
+      "synopsis": "Wolfgang Amadeus Mozart (27 January 1756 – 5 December 1791), baptised as Johannes Chrysostomus Wolfgangus Theophilus Mozart, was a prolific and influential composer of the classical era.",
+      "moreInfo": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
+      "urlPart": "mozart"
+    }
+  ]
+}
